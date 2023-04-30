@@ -82,6 +82,7 @@ body{
     line-height: 0.1em;
     margin: 10px 0 20px; 
     user-select: none;
+    font-weight: 500;
  } 
  
  .bottom h2 span { 
